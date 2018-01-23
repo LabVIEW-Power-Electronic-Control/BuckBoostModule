@@ -27,6 +27,7 @@
 		<Item Name="BuckBoost runtime.lvclass" Type="LVClass" URL="../module/execution/BuckBoost runtime.lvclass"/>
 		<Item Name="BuckBoost tests.lvlib" Type="Library" URL="../Test/BuckBoost tests.lvlib"/>
 		<Item Name="buckboost.png" Type="Document" URL="../editor node/buckboost.png"/>
+		<Item Name="BuckBoostInterface.lvlib" Type="Library" URL="/&lt;vilib&gt;/NI/PowerElectronicsControl/Buck-Boost/RealTime/BuckBoostInterface.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="AMC.lvlib" Type="Library" URL="/&lt;vilib&gt;/NI/AMC/AMC.lvlib"/>
@@ -141,10 +142,10 @@
 				<Item Name="FPGA manager.lvlib" Type="Library" URL="/&lt;vilib&gt;/NI/Tag Bus Module Framework/FPGA manager/FPGA manager.lvlib"/>
 				<Item Name="FPGA_FGV_action.ctl" Type="VI" URL="/&lt;vilib&gt;/NI/DCAF/addons/InstructionFrameworkSupport/FPGA_FGV_action.ctl"/>
 				<Item Name="InstructionFrameworkFGV.vi" Type="VI" URL="/&lt;vilib&gt;/NI/DCAF/addons/InstructionFrameworkSupport/InstructionFrameworkFGV.vi"/>
-				<Item Name="BuckBoostInterface.lvlib" Type="Library" URL="/&lt;vilib&gt;/NI/PowerElectronicsControl/Buck-Boost/RealTime/BuckBoostInterface.lvlib"/>
 				<Item Name="LVJSON.lvlib" Type="Library" URL="/&lt;vilib&gt;/NI/JSON Support for LabVIEW/LVJSON.lvlib"/>
 				<Item Name="NI_Data Type.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/Data Type/NI_Data Type.lvlib"/>
 				<Item Name="LVNumericRepresentation.ctl" Type="VI" URL="/&lt;vilib&gt;/numeric/LVNumericRepresentation.ctl"/>
+				<Item Name="BuckBoost.lvlib" Type="Library" URL="/&lt;vilib&gt;/NI/PowerElectronicsControl/Buck-Boost/FPGA/BuckBoost.lvlib"/>
 			</Item>
 			<Item Name="instr.lib" Type="Folder">
 				<Item Name="niInstr Subsystem Map v1 Host.lvclass" Type="LVClass" URL="/&lt;instrlib&gt;/_niInstr/Instruction Framework/v1/Host/Subsystem Map/niInstr Subsystem Map v1 Host.lvclass"/>

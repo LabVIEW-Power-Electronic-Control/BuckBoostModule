@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2017" Created_Date="2018-01-22 08:26:57" Modified_Date="2018-01-22 08:37:50" Creator="Brian Kindinger" Comments="" ID="48026e5d37641193ab2b4d3020201601">
+<VI_Package_Builder_Settings Version="2017" Created_Date="2018-01-22 08:26:57" Modified_Date="2018-01-23 15:56:10" Creator="Brian Kindinger" Comments="" ID="8edf27631972ba558cb906417014a01d">
   <Library_General_Settings>
     <Package_File_Name>ni_lib_DCAF_Buck_Boost</Package_File_Name>
-    <Library_Version>1.0.0.2</Library_Version>
+    <Library_Version>1.0.0.3</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>..\dev</Library_Source_Folder>
     <Library_Output_Folder>.</Library_Output_Folder>
@@ -115,9 +115,6 @@
         <Namespace_Type>Prefix</Namespace_Type>
         <Namespace/>
       </Namespace_Overrides>
-      <Compile_Exclusions>
-        <Path/>
-      </Compile_Exclusions>
     </Source_Files>
     <License_Agreement_Filepath>..\LICENSE</License_Agreement_Filepath>
     <Licensing_and_Activation>
